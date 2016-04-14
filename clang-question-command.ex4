@@ -1,1 +1,2 @@
 Qual a máscara par imprimir um inteiro com printf()?:%d
+Qual a máscara par imprimir um número de ponto flutuante (float) ou número de ponto flutuante de dupla precisão (double) com printf()?A máscara %f pode ser usado para ambos. Também é aceito %lf para double.
