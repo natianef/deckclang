@@ -4,4 +4,5 @@ Quais os conectivos lógicos de comparação?::&& = e(AND), || = ou(OR), ! = not
 Quais os conectivos lógicos relacionais?::> maior, < menor, >= maior e igual, <= menor e igual, != diferente, == igual.
 Qual o comando especial para pular linha?:: \n.
 Quais as funções existentes na biblioteca stdio.h?:: printf() usada para imprimir dados na tela, scanf() usada para capturar dados do usuario, system() usada para executar comandos no sistema operacional.
+Quais os comandos de repetição em linguagem C?:: do...while, while, for.
 
