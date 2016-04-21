@@ -3,11 +3,4 @@ Qual a máscara par imprimir um número de ponto flutuante (float) ou número de
 Quais os conectivos lógicos de comparação?::&& = e(AND), || = ou(OR), ! = not(não).
 Quais os conectivos lógicos relacionais?::> maior, < menor, >= maior e igual, <= menor e igual, != diferente, == igual.
 Qual o comando especial para pular linha?:: \n.
-Quais as funções existentes na biblioteca stdio.h?:: printf() usada para imprimir dados na tela, scanf() usada para capturar dados do usuario, system() usada para executar comandos no sistema operacional.
-Quais os comandos de repetição em linguagem C?:: do...while, while, for.
-Qual o comando que executa a repetição de um bloco de instruções enquanto uma condição é verdadeira?:: while.
-Qual a estrutura de repetição que garante a execução do bloco de instruções no mínimo uma vez, já que a condição que controla o laço é testada apenas no final do comando?:: do...while.
-Qual o comando de repetição utilizado quando se sabe de antemão quantas vezes a repetição será executada?:: for.
-Qual a utilidade do comando if e else?:: if é uma estrutura de repetição com o objetvo de testar se a condição passada é verdadeira, caso seja o programa entra e executa os comandos do bloco, caso contrario ele entra no bloco do else.
-Quais os tipos de variáveis em C?:: char, int, float e double.
-Quais os operadores artiméticos em C?::- subtração,+ soma, % resto da divisão,* multiplicação,/ divisão.
+
