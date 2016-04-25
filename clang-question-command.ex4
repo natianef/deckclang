@@ -1,3 +1,10 @@
 Qual a máscara par imprimir um inteiro com printf()?::%d
 Qual a máscara par imprimir um número de ponto flutuante (float) ou número de ponto flutuante de dupla precisão (double) com printf()?::A máscara %f pode ser usado para ambos. Também é aceito %lf para double.
 Qual condição é mais segura? if(x==1) ou if(1==x)?::A segunda forma é considerada programação defensiva, pois um erro trocando comparação (==) com atribuição (=) é detectado pelo compilador na segunda forma, e não na primeira.
+Quais os conectivos lógicos de comparação?::&& = e(AND), || = ou(OR), ! = not(não).
+Quais os conectivos lógicos relacionais?::> maior, < menor, >= maior e igual, <= menor e igual, != diferente, == igual.
+Qual o comando especial para pular linha?:: \n.
+Quais as funções existentes na biblioteca stdio.h?:: printf() usada para imprimir dados na tela, scanf() usada para capturar dados do usuario, system() usada para executar comandos no sistema operacional.
+Quais os comandos de repetição em linguagem C?:: do...while, while, for.
+Qual o comando que executa a repetição de um bloco de instruções enquanto um    a condição é verdadeira?:: while.
+
