@@ -9,4 +9,8 @@ Quais os comandos de repetição em linguagem C?:: do...while, while, for.
 Qual o comando que executa a repetição de um bloco de instruções enquanto um    a condição é verdadeira?:: while.
 Qual a máscara para imprimir um caractere com printf()?:: %c.
 Qual a máscara para imprimir uma string com printf()?:: &s.
-Qual o comando de decisão de múltipla escolha?:: switch case
+Qual o comando de decisão de múltipla escolha?:: switch case.
+qual é o comando que deve ser usado para que uma variável receber um valor?::   = (recebe).
+quais são os tipo de variáveis que podem ser declaradas ?:: int(inteiros), float(reais), char(caracteres) e string(nome/cadeia de caracteres). 
+quais são os operadores matemáticos que podem ser utilizados ?:: +(adição), -(subtração), /(divisão) e *(multiplição).
+qual é a diferença entre = e ==?:: = é quando a variável recebe um certo valor e == é quando a variável é comparada a um valor.
