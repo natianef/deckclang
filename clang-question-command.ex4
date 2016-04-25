@@ -6,4 +6,6 @@ Qual o comando especial para pular linha?:: \n.
 Quais as funções existentes na biblioteca stdio.h?:: printf() usada para imprimir dados na tela, scanf() usada para capturar dados do usuario, system() usada para executar comandos no sistema operacional.
 Quais os comandos de repetição em linguagem C?:: do...while, while, for.
 Qual o comando que executa a repetição de um bloco de instruções enquanto um    a condição é verdadeira?:: while.
-
+Qual a máscara para imprimir um caractere com printf()?:: %c.
+Qual a máscara para imprimir uma string com printf()?:: &s.
+Qual o comando de decisão de múltipla escolha?:: switch case
