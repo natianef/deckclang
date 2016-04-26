@@ -15,3 +15,4 @@ Quais são os tipo de variáveis que podem ser declaradas ?:: int(inteiros), flo
 Quais são os operadores matemáticos que podem ser utilizados ?:: +(adição), -(subtração), /(divisão) e *(multiplição).
 Qual é a diferença entre = e ==?:: = é quando a variável recebe um certo valor e == é quando a variável é comparada a um valor.
 Qual a máscara para imprimir um caractere com printf()?::%c
+A instrução if-else pode ser evitada sempre que uma mesma variavel, dependendo de uma condicao, possa receber dois valores diferentes, nesse caso o if-else pode ser subistituido pelo o quê?::Pelo operador condicional (ternário) ?: a sua sintaxe é: condição ? expressão1 : expressão2.
