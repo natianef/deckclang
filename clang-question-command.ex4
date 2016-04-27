@@ -19,3 +19,6 @@ A instrução if-else pode ser evitada sempre que uma mesma variavel, dependendo
 Qual a função da biblioteca stdlib.h?::funcionar como um emulador da prompt do sistema operacional que você está programando.contém os comandos básicos.
 O que é struct?::As estruturas(struct) são grupos de variáveis organizadas arbitráriamente pelo programador.
 Qual a sintaxe do for?:: for(variavel=inteiro,condição,incremento).
+Qual a utilidade do comando system("pause")?:: serve para interromper a execução do programa (pause) para que você possa analisar a janela de saída, após o término da execução.
+Qual a função da biblioteca stdio.h?::A biblioteca stdio é responsável por funções de entrada e saída de dados, os coman dos printf e scanf estão contidos nesta biblioteca.
+Qual o comando adiciona uma biblioteca ao programa?::#include <nomedabiblioteca.h>.
