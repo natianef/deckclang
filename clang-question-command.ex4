@@ -22,3 +22,6 @@ Qual a sintaxe do for?:: for(variavel=inteiro,condição,incremento).
 Qual a utilidade do comando system("pause")?:: serve para interromper a execução do programa (pause) para que você possa analisar a janela de saída, após o término da execução.
 Qual a função da biblioteca stdio.h?::A biblioteca stdio é responsável por funções de entrada e saída de dados, os coman dos printf e scanf estão contidos nesta biblioteca.
 Qual o comando adiciona uma biblioteca ao programa?::#include <nomedabiblioteca.h>.
+qual a utilidade do comando switch?::Simplificar a complexidade de varios if...else encadeados.
+Qual a inutilidade do switch em comparacao ao if...else?::O comando switch nao permite condicoes, permite somente valores constantes.
+Qual a funcao do comando break?::Teminar um case de um comando switch ou forcar o termino imediato de um laco.
