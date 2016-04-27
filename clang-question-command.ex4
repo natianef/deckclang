@@ -18,3 +18,4 @@ Qual a máscara para imprimir um caractere com printf()?::%c
 A instrução if-else pode ser evitada sempre que uma mesma variavel, dependendo de uma condicao, possa receber dois valores diferentes, nesse caso o if-else pode ser subistituido pelo o quê?::Pelo operador condicional (ternário) ?: a sua sintaxe é: condição ? expressão1 : expressão2.
 Qual a função da biblioteca stdlib.h?::funcionar como um emulador da prompt do sistema operacional que você está programando.contém os comandos básicos.
 O que é struct?::As estruturas(struct) são grupos de variáveis organizadas arbitráriamente pelo programador.
+Qual a sintaxe do for?:: for(variavel=inteiro,condição,incremento).
