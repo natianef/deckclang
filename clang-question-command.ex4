@@ -16,3 +16,7 @@ Quais são os operadores matemáticos que podem ser utilizados ?:: +(adição), 
 Qual é a diferença entre = e ==?:: = é quando a variável recebe um certo valor e == é quando a variável é comparada a um valor.
 Qual a máscara para imprimir um caractere com printf()?::%c
 A instrução if-else pode ser evitada sempre que uma mesma variavel, dependendo de uma condicao, possa receber dois valores diferentes, nesse caso o if-else pode ser subistituido pelo o quê?::Pelo operador condicional (ternário) ?: a sua sintaxe é: condição ? expressão1 : expressão2.
+Qual biblioteca inclui funções responsáveis pela entrada e saida de dados?:: A biblioteca stdio, nesta estão incluidas a s funções printf e scanf.
+Qual biblioteca é responsável pela conversão de strings para números, gerenciamento de alocação dinâmica na memoria e o u so da função system()?:: A biblioteca stlib. 
+Qual o comando utilizado para adicionar bibliotecas em um programa?:: #include<nomedabiblioteca.h>. 
+Qual a utilidade do comando system("pause")?:: serve para interromper a execução do programa (pause) para que você possa analisar a janela de saída, após o término da execução.
