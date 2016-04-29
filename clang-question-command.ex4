@@ -26,3 +26,4 @@ qual a utilidade do comando switch?::Simplificar a complexidade de varios if...e
 Qual a inutilidade do switch em comparacao ao if...else?::O comando switch nao permite condicoes, permite somente valores constantes.
 Qual a funcao do comando break?::Teminar um case de um comando switch ou forcar o termino imediato de um laco.
 O larço for é, também, equivalente a qual laço, while ou do-while?::Ao laço while, ja que ambos (for e while) realizam o teste de condicao antes de qualquer instrução, excutando de zero a inumeras vezes. No caso do o do-while, testa-se a condicao so depois de executada a instrucao correspondente pelo menos uma vez.
+Qual o comando especial que é delimitador de strings?::\0.
