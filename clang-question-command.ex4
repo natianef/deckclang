@@ -27,3 +27,6 @@ Qual a inutilidade do switch em comparacao ao if...else?::O comando switch nao p
 Qual a funcao do comando break?::Teminar um case de um comando switch ou forcar o termino imediato de um laco.
 O larço for é, também, equivalente a qual laço, while ou do-while?::Ao laço while, ja que ambos (for e while) realizam o teste de condicao antes de qualquer instrução, excutando de zero a inumeras vezes. No caso do o do-while, testa-se a condicao so depois de executada a instrucao correspondente pelo menos uma vez.
 Qual o comando especial que é delimitador de strings?::\0.
+Qual a função que gera números aleatórios::rand.
+Qual a biblioteca utilizada quando se tem a função rand no código::#iclude<time.h>.
+Qual o comando especial utilizado para tabulação:: \t.
