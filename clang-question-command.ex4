@@ -41,3 +41,6 @@ Qual a função do /*,*/?::Para você poder especificar, ou seja, documentar seu
 Qual a funcao do comando malloc? :: alocar memo´ria do "heap"
 Qual e' a funcao do comando xor(^)? :: transformar os numeros em binarios soma-los e retornar para decimais
 O que é o comando atof? ::E' uma string para float
+Qual o comando usado para comparar duas strings?::strcmp (Este comando pertence à biblioteca string.h)
+Qual o comando usado para saber quanto tempo o programa demorou para ser executado?::time
+Qual o comando para criar uma pasta/diretório?::mkdir
