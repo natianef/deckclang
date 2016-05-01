@@ -30,3 +30,5 @@ Qual o comando especial que é delimitador de strings?::\0.
 Qual a função que gera números aleatórios::rand.
 Qual a biblioteca utilizada quando se tem a função rand no código::#iclude<time.h>.
 Qual o comando especial utilizado para tabulação:: \t.
+Qual a utilidade da função main()?::É por ela que se inicia a execução do programa.
+Qual a função do /*,*/?::Para você poder especificar, ou seja, documentar seu programa-fonte, relatando a função de algo que poderá ser facilmente esquecido ou mal compreendido por outra pessoa, em outras palavras, adicionar um comentário.
