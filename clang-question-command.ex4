@@ -25,3 +25,6 @@ Qual o comando adiciona uma biblioteca ao programa?::#include <nomedabiblioteca.
 qual a utilidade do comando switch?::Simplificar a complexidade de varios if...else encadeados.
 Qual a inutilidade do switch em comparacao ao if...else?::O comando switch nao permite condicoes, permite somente valores constantes.
 Qual a funcao do comando break?::Teminar um case de um comando switch ou forcar o termino imediato de um laco.
+qual a mascara para informar o endereco de uma variavel?:: &nomedavariavel.
+quais as funcoes da biblioteca conio.h?::manipular caracteres na tela,espedificar cor de caracteres e de fundo.
+qual a funcao le o caractere do teclado e nao permite que seja impresso na tela?:: funcao getch.
