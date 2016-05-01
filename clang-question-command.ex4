@@ -3,7 +3,7 @@ Qual a máscara par imprimir um número de ponto flutuante (float) ou número de
 Qual condição é mais segura? if(x==1) ou if(1==x)?::A segunda forma é considerada programação defensiva, pois um erro trocando comparação (==) com atribuição (=) é detectado pelo compilador na segunda forma, e não na primeira.
 Quais os conectivos lógicos de comparação?::&& = e(AND), || = ou(OR), ! = not(não).
 Quais os conectivos lógicos relacionais?::> maior, < menor, >= maior e igual, <= menor e igual, != diferente, == igual.
-Qual o comando especial para pular linha?:: \n.
+Qual o comando especial para pular linha?:: \\n.
 Quais as funções existentes na biblioteca stdio.h?:: printf() usada para imprimir dados na tela, scanf() usada para capturar dados do usuario, system() usada para executar comandos no sistema operacional.
 Quais os comandos de repetição em linguagem C?:: do...while, while, for.
 Qual o comando que executa a repetição de um bloco de instruções enquanto um    a condição é verdadeira?:: while.
@@ -25,6 +25,16 @@ Qual o comando adiciona uma biblioteca ao programa?::#include <nomedabiblioteca.
 qual a utilidade do comando switch?::Simplificar a complexidade de varios if...else encadeados.
 Qual a inutilidade do switch em comparacao ao if...else?::O comando switch nao permite condicoes, permite somente valores constantes.
 Qual a funcao do comando break?::Teminar um case de um comando switch ou forcar o termino imediato de um laco.
+<<<<<<< HEAD
 qual a mascara para informar o endereco de uma variavel?:: &nomedavariavel.
 quais as funcoes da biblioteca conio.h?::manipular caracteres na tela,espedificar cor de caracteres e de fundo.
 qual a funcao le o caractere do teclado e nao permite que seja impresso na tela?:: funcao getch.
+=======
+O larço for é, também, equivalente a qual laço, while ou do-while?::Ao laço while, ja que ambos (for e while) realizam o teste de condicao antes de qualquer instrução, excutando de zero a inumeras vezes. No caso do o do-while, testa-se a condicao so depois de executada a instrucao correspondente pelo menos uma vez.
+Qual o comando especial que é delimitador de strings?::\\0.
+Qual a função que gera números aleatórios::rand.
+Qual a biblioteca utilizada quando se tem a função rand no código::#iclude<time.h>.
+Qual o comando especial utilizado para tabulação:: \\t.
+Qual a utilidade da função main()?::É por ela que se inicia a execução do programa.
+Qual a função do /*,*/?::Para você poder especificar, ou seja, documentar seu programa-fonte, relatando a função de algo que poderá ser facilmente esquecido ou mal compreendido por outra pessoa, em outras palavras, adicionar um comentário.
+>>>>>>> 792378366b8d42bd396080e5e5795fba907c70eb
