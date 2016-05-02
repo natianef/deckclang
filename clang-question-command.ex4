@@ -47,4 +47,7 @@ Qual o comando para criar uma pasta/diretório?::mkdir
 Qual o comando para substituir strings no VI?:: :%s/string(antiga)/string(nova)/g
 Qual comando para copiar arquivos de uma pasta para outra?:: cp nomedoarquivo nome-da-pasta-destino
 Qual comando para sair sem salvar de um VI apos ter alterado?:: :q!
-
+como se declara um ponteiro?:: atraves do asterisco(*).
+qual o diferencial do ponteiro para a variavel ?::ele trabalha diretamente com o endereco da memoria.
+qual a funcao do rand?:: fazer um sorteio aleatorio.
+qual a funcao do carriage return e como ele e representado?:: move o cursor para a primeira posicao na linha que se encontra e e representado por \r.
