@@ -47,7 +47,16 @@ Qual o comando para criar uma pasta/diretório?::mkdir
 Qual o comando para substituir strings no VI?:: :%s/string(antiga)/string(nova)/g
 Qual comando para copiar arquivos de uma pasta para outra?:: cp nomedoarquivo nome-da-pasta-destino
 Qual comando para sair sem salvar de um VI apos ter alterado?:: :q!
+<<<<<<< HEAD
 como se declara um ponteiro?:: atraves do asterisco(*).
 qual o diferencial do ponteiro para a variavel ?::ele trabalha diretamente com o endereco da memoria.
 qual a funcao do rand?:: fazer um sorteio aleatorio.
 qual a funcao do carriage return e como ele e representado?:: move o cursor para a primeira posicao na linha que se encontra e e representado por \r.
+=======
+Qual o comando que le uma variavel?:: scanf
+Quais os comandos que executam uma condicao?:: if/else
+Para que serve as chaves{}?:: para indicar o comeco e o fim de um comando
+Qual a mascara para numeros double?:: a mesma de numeros float: %f. 
+Qual a diferenca entre float e double? :: o numero de casas decimais para a precisao nas contas.double usa mais casas decimais por isso precisa de mais memoria.
+
+>>>>>>> 3ea07e915a708a4a2abd2e7bd8cfaeeacbe62354
