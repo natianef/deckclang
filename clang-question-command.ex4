@@ -47,4 +47,6 @@ Qual o comando para criar uma pasta/diretório?::mkdir
 Qual o comando para substituir strings no VI?:: :%s/string(antiga)/string(nova)/g
 Qual comando para copiar arquivos de uma pasta para outra?:: cp nomedoarquivo nome-da-pasta-destino
 Qual comando para sair sem salvar de um VI apos ter alterado?:: :q!
-
+Qual o comando que le uma variavel?:: scanf
+Quais os comandos que executam uma condicao?:: if/else
+Para que serve as chaves{}?:: para indicar o comeco e o fim de um comando
