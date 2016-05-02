@@ -47,9 +47,11 @@ Qual o comando para criar uma pasta/diretório?::mkdir
 Qual o comando para substituir strings no VI?:: :%s/string(antiga)/string(nova)/g
 Qual comando para copiar arquivos de uma pasta para outra?:: cp nomedoarquivo nome-da-pasta-destino
 Qual comando para sair sem salvar de um VI apos ter alterado?:: :q!
+<<<<<<< HEAD
+Qual a diferenca entre float e double? :: o numero de casas decimais para a precisao nas contas.double usa mais casas decimais por isso precisa de mais memoria.
+Qual a mascara para numeros double?:: a mesma de numeros float: %f. 
+=======
 Qual o comando que le uma variavel?:: scanf
 Quais os comandos que executam uma condicao?:: if/else
 Para que serve as chaves{}?:: para indicar o comeco e o fim de um comando
-Qual a mascara para numeros double?:: a mesma de numeros float: %f. 
-Qual a diferenca entre float e double? :: o numero de casas decimais para a precisao nas contas.double usa mais casas decimais por isso precisa de mais memoria.
-
+>>>>>>> 8a348fad62b1a2c145849596dfe5f00191e344fb
