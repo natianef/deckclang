@@ -44,3 +44,7 @@ O que é o comando atof? ::E' uma string para float
 Qual o comando usado para comparar duas strings?::strcmp (Este comando pertence à biblioteca string.h)
 Qual o comando usado para saber quanto tempo o programa demorou para ser executado?::time
 Qual o comando para criar uma pasta/diretório?::mkdir
+Qual o comando para substituir strings no VI?:: :%s/string(antiga)/string(nova)/g
+Qual comando para copiar arquivos de uma pasta para outra?:: cp nomedoarquivo nome-da-pasta-destino
+Qual comando para sair sem salvar de um VI apos ter alterado?:: :q!
+
